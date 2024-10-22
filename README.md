@@ -8,7 +8,7 @@ I'm passionate about leveraging data to tackle real-world business challenges. W
 
 Feel free to check out my resume and my portfolio for a deeper dive into my skills and experiences. I am currently looking for opportunity so please reach out me on LinkedIn.
 
-🌍  I'm based in Texas
+🌍  I'm based in California
 
 🖥️  See my portfolio at https://swatilalwani1214.wixsite.com/swatilalwani
 
