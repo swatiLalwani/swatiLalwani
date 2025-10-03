@@ -4,7 +4,7 @@
 MS in DATA Analytics Grad Student @ Westcliff University' 2025
 
 
-I'm passionate about leveraging data to tackle real-world business challenges. With a strong background in data analytics and a love for problem-solving, I thrive on transforming raw data into actionable insights. I believe in making learning an enjoyable and dynamic journey, so I'm constantly seeking out exciting projects and opportunities to broaden my skill set.
+I'm passionate about leveraging data to tackle real-world business challenges. With a strong background in business data analytics and a love for problem-solving, I thrive on transforming raw data into actionable insights. I believe in making learning an enjoyable and dynamic journey, so I'm constantly seeking out exciting projects and opportunities to broaden my skill set.
 
 Feel free to check out my resume and my portfolio for a deeper dive into my skills and experiences. I am currently looking for opportunity so please reach out me on LinkedIn.
 
@@ -17,14 +17,27 @@ Feel free to check out my resume and my portfolio for a deeper dive into my skil
 🧠  I’m immersing myself in the data ecosystem.
 
 **Skills**
-▪Programming: Python, T-SQL, NoSQL, R, SAS, Big Data (Hadoop, Spark, MongoDB), AWS, SAP, Azure, Stata, Snowflake
+Data Analytics & Visualization: Power BI, Tableau, Excel (Pivot Tables, VBA), Matplotlib, Seaborn, Google Analytics 4 (GA4)
 
-▪Business Intelligence and Reporting: Microsoft PowerBI, Microsoft Excel, Tableau, Qlik View, SSRS, Google Data Studio
+Database Management: MySQL, PostgreSQL, Oracle, SQL Server, MongoDB
 
-▪Technical Skills: Data Modeling, Data Mining, Machine Learning, Data Warehouse, NumPy, Pandas, Matplotlib, Scikit-Learn, R-Markdown, Database Architecture,
-Seaborn, SciPy, Macros, dplyr, ggplot, Tidy Verse, Regression, Probability, ML Algorithms, MATLAB, DAX, M-Language
+Statistical Analysis: Hypothesis Testing, Regression, A/B Testing, Statistical Modeling
 
-▪Certifications: Power-BI with Excel, Tableau, Google Data Analytics, Snowflake, AWS
+Data Engineering & ETL: SQL (Joins, CTEs, Window Functions), Python (Pandas, NumPy), Talend, Informatica, AWS Glue
+
+Big Data & Cloud: Hadoop, Azure HDInsight, AWS Redshift, Snowflake
+
+Machine Learning Basics: Linear/Logistic Regression, K-Means, Decision Trees
+
+Data Warehousing & Modeling: Star Schema, Snowflake Schema, Dimensional Modeling, ERDs
+
+Business Strategy & Reporting: KPI dashboards, budgeting, cost optimization
+
+Data Cleaning : Data Wrangling, Data Merging, Handling Missing Values
+
+Collaboration & Project Management: Agile, Scrum, JIRA, Confluence, BRDs/FRDs, UAT testing
+
+Certifications: Power-BI with Excel, Tableau, Google Data Analytics, Snowflake, AWS, IBM Data Science
 
 **Socials**
 
