@@ -1,7 +1,7 @@
 **Hi ✋ My name is Swati Lalwani**
 
 
-MS in DATA Analytics Grad Student @ Westcliff University' 2025
+MS in DATA Analytics Graduate @ Westcliff University' 2025
 
 
 I'm passionate about leveraging data to tackle real-world business challenges. With a strong background in business data analytics and a love for problem-solving, I thrive on transforming raw data into actionable insights. I believe in making learning an enjoyable and dynamic journey, so I'm constantly seeking out exciting projects and opportunities to broaden my skill set.
