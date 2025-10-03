@@ -49,6 +49,8 @@ Collaboration & Project Management: Agile, Scrum, JIRA, Confluence, BRDs/FRDs, U
 
 Certifications: Power-BI with Excel, Tableau, Google Data Analytics, Snowflake, AWS, IBM Data Science
 
+android c cplusplus css3 figma hadoop html5 java linux mongodb mysql oracle pandas photoshop python
+
 **Socials**
 
 Email:-swati.lalwani1214@gmail.com
