@@ -8,14 +8,19 @@
 
 
 
-**Hi ✋ My name is Swati Lalwani**
+# 🚀 Data Analyst: Advanced Predictive Modeling & Cloud ETL
 
 
 MS in DATA Analytics Graduate @ Westcliff University' 2025
 
 
-I'm passionate about leveraging data to tackle real-world business challenges. With a strong background in business data analytics and a love for problem-solving, I thrive on transforming raw data into actionable insights. I believe in making learning an enjoyable and dynamic journey, so I'm constantly seeking out exciting projects and opportunities to broaden my skill set.
+Hi ✋ My name is **Swati Lalwani**, and I am a **Data Analyst** specializing in **Predictive Modeling** and **Business Intelligence** solutions.
 
+I leverage a full technical stack—**Python (Machine Learning, TensorFlow), Advanced SQL,** and **Cloud ETL**—to transform complex data into strategic, actionable business insights. My experience includes delivering **quantifiable cost savings ($6M)** and optimizing financial processes across regulated industries.
+
+I'm actively seeking opportunities where my expertise in **Financial Risk Analysis, BI Development, and Data Quality** can directly drive efficiency and strategic decision-making. Please explore my pinned repositories for hands-on proof of concept.
+
+---
 Feel free to check out my resume and my portfolio for a deeper dive into my skills and experiences. I am currently looking for opportunity so please reach out me on LinkedIn.
 
 🌍  I'm based in United States
