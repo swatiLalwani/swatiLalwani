@@ -21,11 +21,9 @@ I leverage a full technical stack—**Python (Machine Learning, TensorFlow), Adv
 I'm actively seeking opportunities where my expertise in **Financial Risk Analysis, BI Development, and Data Quality** can directly drive efficiency and strategic decision-making. Please explore my pinned repositories for hands-on proof of concept.
 
 ---
-Feel free to check out my resume and my portfolio for a deeper dive into my skills and experiences. I am currently looking for opportunity so please reach out me on LinkedIn.
+Feel free to check out my resume and my portfolio for a deeper dive into my skills and experiences. I am currently seeking fulltime opportunities in Data Analytics & Business Intelligence so please reach out me on LinkedIn.
 
 🌍  I'm based in United States
-
-🖥️  See my portfolio at https://swatilalwani1214.wixsite.com/swatilalwani
 
 ✉️  You can contact me at swati.lalwani1214@gmail.com
 
@@ -54,12 +52,14 @@ Collaboration & Project Management: Agile, Scrum, JIRA, Confluence, BRDs/FRDs, U
 
 Certifications: Power-BI with Excel, Tableau, Google Data Analytics, Snowflake, AWS, IBM Data Science
 
-📂 Featured Repositories:
-1. [AWS Spotify Data Engineering Pipeline](https://github.com/swatiLalwani/AWS-Spotify-Data-Engineering-Pipeline)
-2. [R Data Analytics Portfolio](https://github.com/swatiLalwani/R-Data-Analytics-Portfolio)
-3. [Business Intelligence Dashboards](https://github.com/swatiLalwani/Business-Intelligence-Dashboards)
-4. [SQL Data Analytics Portfolio](https://github.com/swatiLalwani/SQL-Data-Analytics-Portfolio)
-5. [Python Data Analytics Portfolio](https://github.com/swatiLalwani/Python-Data-Analytics-Portfolio)
+📂 Featured Repositories  
+🔹 [AWS Spotify Data Engineering Pipeline](https://github.com/swatiLalwani/AWS-Spotify-Data-Engineering-Pipeline)  
+🔹 [SQL Data Analytics Portfolio](https://github.com/swatiLalwani/SQL-Data-Analytics-Portfolio)  
+🔹 [Business Intelligence Dashboards](https://github.com/swatiLalwani/Business-Intelligence-Dashboards)  
+🔹 [Python Data Analytics Portfolio](https://github.com/swatiLalwani/Python-Data-Analytics-Portfolio)  
+🔹 [R Data Analytics Portfolio](https://github.com/swatiLalwani/R-Data-Analytics-Portfolio)  
+🔹 [Healthcare Risk Prediction](https://github.com/swatiLalwani/Healthcare-Risk-Prediction)
+
 
 
 
