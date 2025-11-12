@@ -52,6 +52,8 @@ Collaboration & Project Management: Agile, Scrum, JIRA, Confluence, BRDs/FRDs, U
 
 Certifications: Power-BI with Excel, Tableau, Google Data Analytics, Snowflake, AWS, IBM Data Science
 
+
+
 📂 Featured Repositories  
 🔹 [AWS Spotify Data Engineering Pipeline](https://github.com/swatiLalwani/AWS-Spotify-Data-Engineering-Pipeline)  
 🔹 [SQL Data Analytics Portfolio](https://github.com/swatiLalwani/SQL-Data-Analytics-Portfolio)  
@@ -59,6 +61,13 @@ Certifications: Power-BI with Excel, Tableau, Google Data Analytics, Snowflake, 
 🔹 [Python Data Analytics Portfolio](https://github.com/swatiLalwani/Python-Data-Analytics-Portfolio)  
 🔹 [R Data Analytics Portfolio](https://github.com/swatiLalwani/R-Data-Analytics-Portfolio)  
 🔹 [Healthcare Risk Prediction](https://github.com/swatiLalwani/Healthcare-Risk-Prediction)
+
+
+💡 Highlights:
+- Reduced manual reporting effort by **80%** through SQL & Python automation.
+- Improved financial forecasting accuracy by **18%** using Tableau dashboards.
+- Delivered **$6M** in cost-optimization insights through data-driven modeling.
+- Top-50 Global Finalist, IBM TechXchange Hackathon (Agentic AI Innovation).
 
 
 
