@@ -72,7 +72,7 @@ Snowflake-based fraud risk platform analyzing 285K+ daily card transactions with
 
 ## 🎓 Education
 
-**M.S., Data Analytics** — Westcliff University, Irvine, CA *(Summa Cum Laude, 3.97 GPA)* · June 2025  
+**M.S.ComputerScience, Data Analytics** — Westcliff University, Irvine, CA *(Summa Cum Laude, 3.97 GPA)* · June 2025  
 **B.A., Economics** — California State University, Sacramento, CA *(3.69 GPA)* · May 2022
 
 ---
