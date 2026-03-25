@@ -2,7 +2,7 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/0d6f4d5f-e7bd-4df0-8cc2-88868de6d355" />
 
 # Hi, I'm Swati Lalwani 👋  
-**Senior Financial Analyst & Data Analyst** | SQL · Python · Snowflake · Power BI · Microsoft Fabric  
+**Data Analyst | Product · Operations · Business Analytics | SQL · Python · Snowflake · Power BI · Databricks 
 📍 Dallas, TX · Open to relocate · [LinkedIn](https://www.linkedin.com/in/swati-lalwani/) · [Portfolio](https://www.datascienceportfol.io/swatilalwani342) · swati.lalwani1214@gmail.com
 
 ---
