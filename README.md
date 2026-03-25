@@ -167,12 +167,6 @@ I build pipelines, dashboards, and analytics systems that drive decisions — no
 [![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/F9VSKEKJBEZQ)
 [![Corporate Finance](https://img.shields.io/badge/Corporate_Finance-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swati-lalwani/details/certifications/)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swatiLalwani&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatiLalwani&layout=compact&hide_border=true&theme=default" height="150" />
-</div>
 
 ---
 
