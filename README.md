@@ -171,6 +171,6 @@ I build pipelines, dashboards, and analytics systems that drive decisions — no
 ---
 
 <div align="center">
-  <sub>Open to Senior Data Analyst · Analytics Engineer · Business Intelligence roles · Dallas TX or Remote</sub>
+  <sub>Open to  Data Analyst · Product Analyst · Business Intelligence Analyst roles · USA </sub>
 </div>
 
