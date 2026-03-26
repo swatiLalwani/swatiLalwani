@@ -9,7 +9,7 @@
 <div align="center">
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-swatilalwani-black?style=flat-square&logo=google-chrome&logoColor=white)](https://swatilalwani1214.wixsite.com/swatilalwani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-swatilalwani-black?style=flat-square&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/swatilalwani342)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-swatilalwani1404-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatilalwani1404)
 [![Email](https://img.shields.io/badge/Email-swati.lalwani1214@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swati.lalwani1214@gmail.com)
 ![Location](https://img.shields.io/badge/Dallas%2C_TX-Open_to_Relocate-6B7280?style=flat-square)
