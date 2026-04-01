@@ -171,6 +171,6 @@ I build pipelines, dashboards, and analytics systems that drive decisions — no
 ---
 
 <div align="center">
-  <sub>Open to  Data Analyst · Product Analyst · Business Intelligence Analyst roles · USA </sub>
+  <sub>Open to  Financial Data Analyst · Data Analyst · FP&A Analyst · BI Analyst · USA </sub>
 </div>
 
