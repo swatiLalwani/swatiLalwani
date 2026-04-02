@@ -39,7 +39,7 @@ I build pipelines, dashboards, and analytics systems that drive decisions — no
 | Supply chain ETL pipeline — multi-market operations | **$111K leakage** identified; **15+ hrs/week** reporting eliminated |
 | Fraud risk platform on Snowflake — 285K daily transactions | Prevented **$513K net** operational loss |
 | Power BI dashboards replacing 5 manual Excel reports | **6 hrs/week** saved; lag cut to real-time |
-| DAU/WAU/MAU retention analytics — 1,000+ users | **60% adoption** growth in 3 months |
+| DAU/WAU/MAU retention analytics — 1,000+ users | **30% adoption** growth in 3 months |
 | Informatica ETL migration — 40+ SQL validation queries | **Zero defects** at go-live; defect rate cut **85%** |
 
 ---
@@ -148,7 +148,7 @@ I build pipelines, dashboards, and analytics systems that drive decisions — no
 
 ## Education & Recognition
 
-**M.S. Data Analytics** — Westcliff University, Irvine CA · *Summa Cum Laude, 3.97 GPA* · June 2025
+**M.S. Computer Science** — Westcliff University, Irvine CA · *Summa Cum Laude, 3.97 GPA* · June 2025
 
 **B.A. Economics** — California State University, Sacramento CA · *3.69 GPA* · May 2022
 
