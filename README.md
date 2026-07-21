@@ -150,7 +150,7 @@ I build pipelines, dashboards, and analytics systems that drive decisions — no
 
 **M.S. Computer Science** — Westcliff University, Irvine CA · *Summa Cum Laude, 3.97 GPA* · June 2025
 
-**B.A. Economics** — California State University, Sacramento CA · *3.69 GPA* · May 2022
+**B.A. Economics** — California State University, Sacramento CA  · May 2022
 
 🥇 **Top 50 Global Finalist** — IBM watsonx Pre-conference Hackathon
 
